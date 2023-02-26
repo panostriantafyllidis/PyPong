@@ -3,9 +3,9 @@
 The classic Pong game in Python using Pygame
 
 
-V1 => PvP=Yes - Sound=Yes - Menu=No - Bot=No
+V1 => PvP=Yes - Sound=Yes - Menu=No  - Bot=No          --- Status : WORKS
 
-V2 => PvP=Yes - Sound=Yes - Menu=Yes - Bot=NOT WORKING
+V2 => PvP=Yes - Sound=Yes - Menu=Yes - Bot=Unfinished  --- Status : NOT WORKING (YET)
 
 Problem:
 1. Need to Deferentiate the Player paddle with the Bot paddle (when setting the bot paddle to follow the ball, the player's paddle does too.
